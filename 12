@@ -1,0 +1,12 @@
+{
+    "name": "Honorary Wild Lion #12",
+    "tokenID": 12,
+    "image": "https://gateway.pinata.cloud/ipfs/QmXwsM4xgrBB4Kcwgcbo4npB9LpcJrFNYtCrcg9JGamkPG",
+    "attributes": [
+        {
+            "trait_type": "WLS Honorary Member",
+            "value": "Capetain Trippy"
+        }
+    ],
+    "description": "Honorary members of the Wild Lion Society."
+}

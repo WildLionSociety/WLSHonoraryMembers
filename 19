@@ -1,0 +1,12 @@
+{
+    "name": "Honorary Wild Lion #19",
+    "tokenID": 19,
+    "image": "https://gateway.pinata.cloud/ipfs/QmdpoYAcgXyKUH5vDAMjW7qDFfejaLdbTvZsVj3WoLLgLo",
+    "attributes": [
+        {
+            "trait_type": "WLS Honorary Member",
+            "value": "Farokh"
+        }
+    ],
+    "description": "Honorary members of the Wild Lion Society."
+}
