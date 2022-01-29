@@ -1,0 +1,12 @@
+{
+    "name": "Honorary Wild Lion #16",
+    "tokenID": 16,
+    "image": "https://gateway.pinata.cloud/ipfs/QmNQmzmeQyf1PQQcqjzob7SgXjqsS9mQ4N3weCBDwRzH1u",
+    "attributes": [
+        {
+            "trait_type": "WLS Honorary Member",
+            "value": "Zeneca"
+        }
+    ],
+    "description": "Honorary members of the Wild Lion Society."
+}
