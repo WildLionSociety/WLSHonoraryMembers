@@ -1,0 +1,12 @@
+{
+    "name": "Honorary Wild Lion #21",
+    "tokenID": 21,
+    "image": "https://gateway.pinata.cloud/ipfs/QmNZaGhXFfHHszc8afNqnaeV3LL7dPe2VUL3JGaXoANhTo",
+    "attributes": [
+        {
+            "trait_type": "WLS Honorary Member",
+            "value": "Pranksy"
+        }
+    ],
+    "description": "Honorary members of the Wild Lion Society."
+}
